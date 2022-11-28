@@ -59,26 +59,26 @@
 //  int n = Convert.ToInt32(Console.ReadLine());
 
 
-// // // if  (n == 1,2,3,4,5)
-// // // Console.Write ("Рабочий день  ") ;
-// // // if (n == 6,7)
-// // // Console.Write ("Выходной день") ;
+//  if  (0 < n && n < 6)
+//  Console.Write ("Рабочий день  ") ;
+//  if (n == 6 || n == 7)
+//  Console.Write ("Выходной день") ;
 
-// if (n == 1)
-// Console.Write ("Понедельник-рабочий день") ;
-// if (n == 2)
-// Console.Write ("Вторник-рабочий день") ;    
-// if (n == 3)
-// Console.Write ("Среда-рабочий день") ;
-// if (n == 4)
-// Console.Write ("Четверг-рабочий день") ;
-// if (n == 5)
-// Console.Write ("Пятница-рабочий день") ;
-// if (n == 6)
-// Console.Write ("Суббота-Выходной день") ;
-// if (n == 7)
-// Console.Write ("Воскресенье-Выходной день") ;
-
+/*if (n == 1)
+Console.Write ("Понедельник-рабочий день") ;
+if (n == 2)
+Console.Write ("Вторник-рабочий день") ;    
+if (n == 3)
+Console.Write ("Среда-рабочий день") ;
+if (n == 4)
+Console.Write ("Четверг-рабочий день") ;
+if (n == 5)
+Console.Write ("Пятница-рабочий день") ;
+if (n == 6)
+Console.Write ("Суббота-Выходной день") ;
+if (n == 7)
+Console.Write ("Воскресенье-Выходной день") ;
+*/
  
 /*
  Задана последовательность натуральных чисел, завершающаяся числом 0.
@@ -94,23 +94,20 @@
 	1 2 3 4 5 6 7 0 8 9 10
 */
 
-
-// Console.Clear();
 // int n = Convert.ToInt32(Console.ReadLine());
 // int max = -2147483648;
-// int secondmax = -2147483648; 
-// while ( n != 0 )
+// int secondmax = -2147483648;
+
+// while ( n != 0)
 // {
-//  if ( n > max) 
-//     { secondmax = max;
-//         max = n;}
-//  else
-//      if ( n > secondmax)  
-//      {secondmax = n;}    
-
-// n = Convert.ToInt32(Console.ReadLine());
-
+//     n = Convert.ToInt32(Console.ReadLine());
+    
+//     if (n > max)
+//         secondmax = max;
+//         max = n;
+        
+//     if ( max > n && n > secondmax) 
+//           secondmax = n ;  
 // }
-// Console.WriteLine("first max = "+ max);
 // Console.WriteLine("secondmax = " + secondmax);
-// Console.Write("End");
+// Console.Write("End");    
