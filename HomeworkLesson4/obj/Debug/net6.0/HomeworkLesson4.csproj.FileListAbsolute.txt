@@ -1,0 +1,15 @@
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\bin\Debug\net6.0\HomeworkLesson4.exe
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\bin\Debug\net6.0\HomeworkLesson4.deps.json
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\bin\Debug\net6.0\HomeworkLesson4.runtimeconfig.json
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\bin\Debug\net6.0\HomeworkLesson4.dll
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\bin\Debug\net6.0\HomeworkLesson4.pdb
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.csproj.AssemblyReference.cache
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.AssemblyInfoInputs.cache
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.AssemblyInfo.cs
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.csproj.CoreCompileInputs.cache
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.dll
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\refint\HomeworkLesson4.dll
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.pdb
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\HomeworkLesson4.genruntimeconfig.cache
+C:\Users\akim\Desktop\DZGICDM\DMHOMEWORK\HomeworkLesson4\obj\Debug\net6.0\ref\HomeworkLesson4.dll
