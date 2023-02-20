@@ -7,11 +7,16 @@ M = 4; N = 8. -> 30
 */
 
 
-//   int sum(int m,int n)
-// {  
-//      if (m == n)
+// int sum(int m, int n)
+
+// {
+
+//     Console.WriteLine($"сумма чисел от {m} до {n} ");
+//     if (m == n)
 //         return m;
-//      return sum(m,n - 1) + n;
+//     return sum(m, n - 1) + n;
+
+
 // }
 
 // Console.Clear();
@@ -19,7 +24,7 @@ M = 4; N = 8. -> 30
 // int m = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Введите число: ");
 // int n = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine($"сумма чисел от {m} до {n} = [{sum(m,n)}] " );
+// Console.WriteLine($"сумма чисел от {m} до {n} = [{sum(m, n)}] ");
 
 /*
 Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два 
@@ -807,3 +812,29 @@ IOX                         XOI
 //        Console.WriteLine("i " +i);
 //     rec(s2, c);
 // }
+
+// СЛОЖЕНИЕ С ПОМОЩЬЮ РЕКУРСИИ ЧЕРЕЗ ФУНКЦИЮ И ЧЕРЕЗ ПРОЦЕДУРУ
+// int sum()
+// {
+//     Console.Write("Введите число ");
+//     int x = Convert.ToInt32(Console.ReadLine());
+//     if (x == 0)
+//         return 0;
+//     return sum() + x;
+
+// }
+// Console.WriteLine(sum());
+
+
+// void sum(int res)
+// {
+//     int x = Convert.ToInt32(Console.ReadLine());
+//     res += x;
+//     if (x == 0)
+//         Console.WriteLine(res);
+//     if (x != 0)
+//         sum(res);
+// }
+// Console.Clear();
+// int res = 0;
+// sum(res);
